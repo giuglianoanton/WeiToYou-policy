@@ -1,6 +1,6 @@
 # WeiToYou-policy
 
-Thank you for using our app that utilizes Multipeer Connectivity to allow users to share string input between devices. At our company, we take your privacy seriously and are committed to protecting your personal information. This privacy policy explains how we collect, use, and share information about you when you use our app.
+Thank you for using our app that utilizes Multipeer Connectivity to allow users to share their distance and direction to between devices. At our company, we take your privacy seriously and are committed to protecting your personal information. This privacy policy explains how we collect, use, and share information about you when you use our app.
 
 Information We Collect
 
@@ -19,8 +19,8 @@ We may use the information we collect for the following purposes:
 4. To enforce our terms and policies
 5. To comply with legal obligations
 
-We use Multipeer Connectivity to connect devices and enable messaging among those devices. This means that when you use our app, we collect some information about your device's network, including your IP address and network name. This information is necessary to establish and maintain a connection between your device and other devices using our app.
-We do not collect any information about the content of your messages or any other personal information.
+We use Multipeer Connectivity to connect devices and enable the sharing of distance and direction among those devices. This means that when you use our app, we collect some information about your device's network, including your IP address and network name. This information is necessary to establish and maintain a connection between your device and other devices using our app.
+We do not collect any information about your position, distance or direction between connected devices or any other personal information.
 
 Information Sharing
 
